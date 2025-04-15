@@ -22,11 +22,11 @@ The **Mind and Machine** project aimed to create an **interactive visualization*
 
 ### **Flourish Limitations**:
 
-Initially, **Flourish** was selected for creating the **interactive network map**. However, despite Flourish’s excellent visualization capabilities, it **did not support external image hosting**, and there was no way to directly **upload images** into the visualization. This severely limited the project’s ability to display the **region-based diagrams** and **AI comparisons** as initially envisioned.
+Initially, **Flourish** was selected for creating the **interactive network map**. However, despite Flourish’s excellent visualization capabilities, it **did not support external image hosting**, and there was no way to directly **upload images** into the visualization. This severely limited the project’s ability to display the **region-based diagrams** and **AI comparisons** as initially envisioned. See here: https://public.flourish.studio/visualisation/22660973/
 
 ### **Think Machine Limitations**:
 
-Next, I attempted to use **Think Machine** to create a **network layout** similar to what was planned. Unfortunately, **Think Machine** also lacked the ability to **save** or **add images** directly, which hindered the ability to visually display the **brain region and AI concepts** side-by-side.
+Next, I attempted to use **Think Machine** to create a **network layout** similar to what was planned. Unfortunately, **Think Machine** also lacked the ability to **save files** or **add images** directly, which hindered the ability to visually display the **brain region and AI concepts** side-by-side.
 
 ### **Jupyter Notebook Attempt**:
 
