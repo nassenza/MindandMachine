@@ -1,0 +1,47 @@
+
+•	Amygdala and Emotion AI:
+•	Neuroscientific Source: Amygdala emotional processing (Frontiers): https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00224/full
+AI Source: Amygdala-inspired AI emotion recognition (LinkedIn): https://www.linkedin.com/pulse/how-can-studying-amygdala-revolutionize-artificial-emotional-genni-f8ypf
+•	Basal Ganglia and AI:
+Neuroscientific Source: Basal ganglia motor control (PubMed): https://pubmed.ncbi.nlm.nih.gov/23019830/
+AI Source: Reward-based learning in AI models (Springer): https://link.springer.com/article/10.1007/s00354-019-00081-z
+•	Brain - Mind and Machine:
+Neuroscientific Source: Human Brain Anatomy and Function (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2658055/
+AI Source: How AI Mimics Brain Functions (IEEE): 
+https://news.mit.edu/2021/ai-brain-mimic-decision-making-0105
+https://ieeexplore.ieee.org/document/9293697\
+•       Brain Model References 
+Neuroscientific Source: "Human Brain Anatomy and Function (Frontiers in Neuroscience)":
+https://www.frontiersin.org/articles/10.3389/fnins.2021.672845/full
+AI Source: "AI and Neuroscience: Bridging the Gap (MIT News)":
+•	Cingulate Cortex and Reward/Error Processing:
+Neuroscientific Source: Cingulate Cortex and Reward/Error Processing (PubMed): https://pubmed.ncbi.nlm.nih.gov/22982355/
+AI Source: Reinforcement learning and reward/error in AI (Frontiers): https://www.frontiersin.org/articles/10.3389/fnins.2016.00349/full
+•	Corpus Callosum and Multi-agent Synchronization:
+Neuroscientific Source: Corpus Callosum Functionality (Queensland Brain Institute): https://qbi.uq.edu.au/brain/brain-anatomy/corpus-callosum
+AI Source: Multi-agent Systems and Synchronization (PubMed): https://pubmed.ncbi.nlm.nih.gov/22982355/
+•	Frontal Lobe and Decision-Making:
+Neuroscientific Source: Frontal lobes and decision-making (PLOS Biology): https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001293
+AI Source: Neuroscience of decision-making and AI implications (LinkedIn): https://www.linkedin.com/pulse/neuroscience-decision-making-its-implications-artificial-peter-coe-43xie
+•	Hippocampus and Memory:
+Neuroscientific Source: Hippocampus and Memory Formation (PubMed): https://pubmed.ncbi.nlm.nih.gov/29024221/
+AI Source: Memory Replay in Deep Reinforcement Learning (ScienceDirect): https://www.sciencedirect.com/science/article/abs/pii/S0166223621001442
+•	Insula and Emotional Computing:
+Neuroscientific Source: Insula and Emotional Awareness (Springer): https://link.springer.com/article/10.1007/s00354-019-00081-z
+AI Source: Affective Computing and Emotion AI: https://link.springer.com/article/10.1007/s00354-019-00081-z
+•	Occipital Lobe and Computer Vision:
+Neuroscientific Source: Occipital lobe visual processing (Cleveland Clinic): https://my.clevelandclinic.org/health/body/24498-occipital-lobe
+AI Source: AI inspired by occipital lobe visual interpretation (Science.org): https://www.science.org/content/article/ai-re-creates-what-people-see-reading-their-brain-scans
+•	Parietal Lobe and AI:
+Neuroscientific Source: Parietal cortex and spatial functions (Oxford Academic): https://academic.oup.com/book/46855/chapter/413761259
+AI Source: Spatial processing in robotics and AI (Frontiers): https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00063/full
+•	Thalamus and Attention Mechanisms:
+Neuroscientific Source: Computational & Neural Mechanisms of Thalamic Attention (PubMed): https://pubmed.ncbi.nlm.nih.gov/22982355/
+AI Source: Attention Mechanisms in Deep Learning (PubMed): https://pubmed.ncbi.nlm.nih.gov/22982355/
+•	Wernicke’s Area – Language Understanding:
+Neuroscientific Source: Wernicke's Area in Language Comprehension (Frontiers): https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00728/full
+AI Source: AI and NLP: How AI is improving natural language processing: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00063/full
+•       Broca’s Area – Language Generation:
+Neuroscientific Source: Broca’s Area Language Generation (PMC): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945596/
+AI Source: A Language Model like GPT Could Serve as Broca's Area in a Brain-Computer Interface (Observed Impulse): https://www.observedimpulse.com/2021/10/a-language-model-like-gpt-could-serve.html 
+
